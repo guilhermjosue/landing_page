@@ -1,0 +1,20 @@
+{
+  "name": "SanMarcoShow",
+  "version": "1.0.0",
+  "description": "This is a landing page for a famous married band in São Paulo, this page apresents diffents scroll types and many animations to aprensent the skills and improves of band",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tuliomarcos/banda_para_casamento.git"
+  },
+  "keywords": [],
+  "author": "Túlio Marcos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tuliomarcos/banda_para_casamento/issues"
+  },
+  "homepage": "https://github.com/tuliomarcos/banda_para_casamento#readme"
+}
