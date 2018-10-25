@@ -1,0 +1,9 @@
+#arquivos de gerenciamento do macBook
+.DS_Store
+
+#arquivos de gerenciamento de dependencia node.js
+node_modules/
+
+#duas landing pages para futuras alterações
+banda-de-casamento/
+banda-de-confraternizacao/
